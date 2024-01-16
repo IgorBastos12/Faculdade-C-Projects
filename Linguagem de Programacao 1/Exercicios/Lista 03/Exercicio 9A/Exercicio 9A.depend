@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699399292 source:c:\users\igord\onedrive\Área de trabalho\eng. da computação\semestre 1\linguagem de programação i\conteúdo\unidade 3\03 - alocação dinâmica de memória\exercicio 9a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698956060 source:c:\users\igord\onedrive\Área de trabalho\eng. da computação\semestre 1\linguagem de programação i\conteúdo\unidade 3\lista 04\exercicio 6a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

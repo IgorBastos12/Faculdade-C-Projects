@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701713409 source:c:\users\igord\onedrive\Área de trabalho\eng. da computação\semestre 1\linguagem de programação i\trabalhos\trabalho 02\problema 2 alternativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
